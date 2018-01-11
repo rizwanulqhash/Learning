@@ -13,7 +13,5 @@ public class PrintStarPattern {
 			
 			for (int k=j; k>0; k--)
 		}
-
 	}
-
 }
