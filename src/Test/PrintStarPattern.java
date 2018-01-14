@@ -9,7 +9,6 @@ public class PrintStarPattern {
 				System.out.print("*");
 			}
 			System.out.println("");
-			
 //			for (int k=j; k>0; k--){
 //		}
 
@@ -23,8 +22,5 @@ public class PrintStarPattern {
 		demo1.append("World");
 		demo1.reverse();
 		System.out.println(demo1);
-		
-		
-		
 	}
 }
