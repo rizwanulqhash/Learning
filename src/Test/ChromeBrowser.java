@@ -6,7 +6,7 @@ public class ChromeBrowser {
 	public static void main(String[] args) {
 	
 		System.setProperty("webdriver.chrome.driver", "E:\\qa\\ChromeDriver\\chromedriver.exe");
-//		WebDriver driver=new ChromeDriver();
+		WebDriver driver=new ChromeDriver();
 //		String Parent_Window = driver.getWindowHandle();
 //		driver.get("http://google.com");
 //		System.out.println(driver.getTitle());
